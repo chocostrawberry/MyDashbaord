@@ -117,7 +117,7 @@ body {
   color: #7a3a5c;
 }
 
-..profile-summary .contact-section {
+.profile-summary .contact-section {
   margin: 28px auto 0;
   background: #f9e7f0;
   border: 1px solid rgba(243, 199, 221, 0.8);
